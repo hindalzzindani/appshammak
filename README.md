@@ -17,7 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 
 
 ## Screenshots 📸
-##google playstore
+##googleplaystore
 https://play.google.com/store/apps/details?id=com.awalnet.flutter_shammakh_ecom&hl=ar
 <p align="center">
     <img src="mockup-1.png" alt="Screenshot 4" "/> <br><br>
