@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "120034189976",
+    "project_id": "shammakhstore",
+    "storage_bucket": "shammakhstore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120034189976:android:34af4dec024add4e26e6ed",
+        "android_client_info": {
+          "package_name": "com.awalnet.flutter_shammakh_ecom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120034189976-9qt59qheku86q195mpojuu7u5kodp1lf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEPzLAWmHJmkbMr4Pex9kIlQupAHq8w4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120034189976-9qt59qheku86q195mpojuu7u5kodp1lf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
