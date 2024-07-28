@@ -19,11 +19,10 @@ samples, guidance on mobile development, and a full API reference.
 ## Screenshots 📸
 
 <p align="center">
+    <img src="mockup-1.png" alt="Screenshot 4" width="200"/> <br><br>
   <img src="Screenshot_20220817_125409.png" alt="Screenshot 1" width="200"/>
   <img src="Screenshot_20220817_125432.png" alt="Screenshot 2" width="200"/>
-  <img src="Screenshot_20220817_125450.png" alt="Screenshot 3" width="200"/>  <br><br>
-  <img src="Screenshot_4.png" alt="Screenshot 4" width="200"/>
-  <img src="Screenshot_5.png" alt="Screenshot 5" width="200"/>
+  <img src="Screenshot_20220817_125450.png" alt="Screenshot 3" width="200"/> 
 </p>
 
 Description
