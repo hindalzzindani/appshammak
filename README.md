@@ -15,6 +15,10 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
+## 🛠️ Languages and Tools :
+flutter logo  dart logo  cplusplus logo  c logo  react logo  javascript logo  html5 logo  css3 logo  typescript logo 
+csharp logo  firebase logo  gradle logo  gulp logo  vscode logo  github logo  androidstudio logo  git logo  linkedin logo
+ Social Media :
 
 ## Screenshots 📸
 ## playstore
