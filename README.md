@@ -16,10 +16,26 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 ## 🛠️ Languages and Tools :
-flutter logo  dart logo  cplusplus logo  c logo  react logo  javascript logo  html5 logo  css3 logo  typescript logo 
-csharp logo  firebase logo  gradle logo  gulp logo  vscode logo  github logo  androidstudio logo  git logo  linkedin logo
- Social Media :
+<p align="left">
+  <a href="https://flutter.dev/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" style="margin: 190%;"/>
+  </a>
 
+  <a href="https://dart.dev" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40" style="margin: 90%;"/>
+  </a>
+    <a href="https://www.android.com/studio" target="_blank">
+    <img src="https://camo.githubusercontent.com/e87a0bbc2ea533869deabc5775446f8a634e13dc84511323038eab5203ff40e5/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f616e64726f696473747564696f2f616e64726f696473747564696f2d6f726967696e616c2e737667" alt="android" width="40" height="40" style="margin: 90%;"/>
+  </a>
+
+   <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40" style="margin: 10px;"/>
+  </a>
+
+   <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" style="margin: 10px;"/>
+  </a>
+</p>
 ## Screenshots 📸
 ## playstore
 https://play.google.com/store/apps/details?id=com.awalnet.flutter_shammakh_ecom&hl=ar
@@ -35,6 +51,7 @@ A demo app that demonstrates Flutter's ability to create beautiful UI with compl
 
 📦 Packages
 Description	Package
+firebase
 shared_preferences	shared_preferences
 State Management	Provider
 
