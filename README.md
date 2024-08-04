@@ -48,20 +48,25 @@ samples, guidance on mobile development, and a full API reference.
     <img src="https://www.vectorlogo.zone/logos/apple_ios/apple_ios-icon.svg" alt="ios" width="40" height="40" style="margin: 120px;"/>
   </a>
 </p>
+
 ## Screenshots 📸
-## playstore
-https://play.google.com/store/apps/details?id=com.awalnet.flutter_shammakh_ecom&hl=ar
 <p align="center">
     <img src="mockup-1.png" alt="Screenshot 4" "/> <br><br>
   <img src="Screenshot_20220817_125409.png" alt="Screenshot 1" width="200"/>
   <img src="Screenshot_20220817_125432.png" alt="Screenshot 2" width="200"/>
   <img src="Screenshot_20220817_125450.png" alt="Screenshot 3" width="200"/> 
 </p>
+<br>
 
-Description
+## playstore
+https://play.google.com/store/apps/details?id=com.awalnet.flutter_shammakh_ecom&hl=ar
+
+<br>
+
+## Description
 A demo app that demonstrates Flutter's ability to create beautiful UI with complex animations. The app fetches recipes from local storage.
 
-📦 Packages
+## 📦 Packages
 Description	Package
 firebase
 shared_preferences	shared_preferences
