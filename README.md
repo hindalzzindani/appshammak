@@ -44,7 +44,7 @@ samples, guidance on mobile development, and a full API reference.
   <a href="https://www.apple.com/ios/app-store/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/apple_appstore/apple_appstore-icon.svg" alt="apple store" width="40" height="40" style="margin: 120px;"/>
   </a>
-  <a href="https://www.apple.com/ios/" target="_blank">
+  <a href=" https://www.apple.com/ios/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/apple_ios/apple_ios-icon.svg" alt="ios" width="40" height="40" style="margin: 120px;"/>
   </a>
 </p>
