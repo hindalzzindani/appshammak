@@ -35,6 +35,9 @@ samples, guidance on mobile development, and a full API reference.
    <a href="https://firebase.google.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" style="margin: 120px;"/>
   </a>
+   <a href="https://www.apple.com/macos" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" alt="macos" width="40" height="40" style="margin: 10px;"/>
+  </a>
   <a href="https://developer.apple.com/xcode/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-icon.svg" alt="xcode" width="40" height="40" style="margin: 120px;"/>
   </a>
