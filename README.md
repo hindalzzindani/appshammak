@@ -29,11 +29,20 @@ samples, guidance on mobile development, and a full API reference.
   </a>
 
    <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40" style="margin: 10px;"/>
+    <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40" style="margin: 120px;"/>
   </a>
 
    <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" style="margin: 10px;"/>
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" style="margin: 120px;"/>
+  </a>
+  <a href="https://developer.apple.com/xcode/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-icon.svg" alt="xcode" width="40" height="40" style="margin: 120px;"/>
+  </a>
+  <a href="https://www.apple.com/ios/app-store/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/apple_appstore/apple_appstore-icon.svg" alt="apple store" width="40" height="40" style="margin: 120px;"/>
+  </a>
+  <a href="https://www.apple.com/ios/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/apple_ios/apple_ios-icon.svg" alt="ios" width="40" height="40" style="margin: 120px;"/>
   </a>
 </p>
 ## Screenshots 📸
